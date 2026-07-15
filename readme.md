@@ -1,6 +1,6 @@
 ### Hi, I'm Jona 👋
 
-- 🔭 I’m currently working at [@blockbucht](https://github.com/BlockBucht)
+- **🔭 I’m currently working at [@blockbucht](https://github.com/BlockBucht)**
 
 ---
 
