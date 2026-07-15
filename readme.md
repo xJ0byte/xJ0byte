@@ -13,10 +13,13 @@
 ### Datenbanken & Konfiguration
 *   **MySQL & MariaDB**
 *   **MongoDB**
+*   **PostGreSQL**
+*   **Redis**
 *   **YAML / YML**
 
 ### Weitere Tools & Administration
 *   **GitHub**
 *   **Gradle**
 *   **Grafana**
+*   **Jetbrains Tools**
 *   **Pterodactyl** (Server-Administration)
