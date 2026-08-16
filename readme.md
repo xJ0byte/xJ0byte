@@ -20,7 +20,7 @@
 
 ### Weitere Tools & Administration
 *   **GitHub**
-*   **Megalogon**
+*   **Megalodon**
 *   **Gradle**
 *   **Grafana**
 *   **Jetbrains Tools**
