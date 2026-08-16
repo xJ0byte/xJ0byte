@@ -12,6 +12,7 @@
 
 ### Datenbanken & Konfiguration
 *   **MySQL & MariaDB**
+*   **Octopus**
 *   **MongoDB**
 *   **PostGreSQL**
 *   **Redis**
@@ -19,6 +20,7 @@
 
 ### Weitere Tools & Administration
 *   **GitHub**
+*   **Megalogon**
 *   **Gradle**
 *   **Grafana**
 *   **Jetbrains Tools**
