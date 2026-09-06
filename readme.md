@@ -11,17 +11,15 @@
 *   **HTML5 / CSS3**
 
 ### Datenbanken & Konfiguration
-*   **MySQL & MariaDB**
 *   **Octopus**
-*   **MongoDB**
 *   **PostGreSQL**
 *   **Redis**
+*   **RabbitMq**
 *   **YAML / YML**
+*   **Json**
 
 ### Weitere Tools & Administration
 *   **GitHub**
-*   **Megalodon**
-*   **Gradle**
 *   **Grafana**
 *   **Jetbrains Tools**
 *   **Pterodactyl** (Server-Administration)
