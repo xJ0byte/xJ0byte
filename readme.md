@@ -11,8 +11,6 @@
 *   **HTML5 / CSS3**
 
 ### Datenbanken & Konfiguration
-*   **Octopus**
-*   **PostGreSQL**
 *   **Redis**
 *   **RabbitMq**
 *   **YAML / YML**
